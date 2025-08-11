@@ -9,8 +9,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=ff8c00&center=true&vCenter=true&width=400&lines=Passionate+Coder+%26+Problem+Solver;Full-Stack+Developer;Tech+Enthusiast+%7C+Innovator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=ff8c00&center=true&width=510&lines=Passionate+Coder+%26+Problem+Solver;Full-Stack+Developer;Tech+Enthusiast+%7C+Innovator;Always+Learning+New+Things" />
 </p>
+
 
 <h3 align="center">
   Blending creativity with code to build clean, responsive, and impactful digital experiences 🚀
